@@ -1,6 +1,6 @@
 # Lokid
 
-# Start Lokid
+## Start Lokid
 
 ```bash
 docker-compose up
